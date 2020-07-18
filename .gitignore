@@ -1,0 +1,5 @@
+# Compile products
+*.bsp
+*.log
+*.prt
+*.vmx
